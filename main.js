@@ -453,7 +453,6 @@ canvas.addEventListener("mousemove", function(e) {
     fareY = e.clientY - dikdortgen.top;
 });
 
-""
 
 
 boyutlandir();
