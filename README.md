@@ -94,3 +94,9 @@ Oyun içinde kullanılan tüm ses ve görsel öğeler `assets` klasöründe bulu
 - **Fare Hareketi:** Nişan alma
 - **Fare Tıklaması:** Ateş etme
 - **P Tuşu:** Oyunu duraklatma/devam ettirme
+
+## 🎮 Oynanış Videosu
+
+YouTube üzerinden izlemek için tıklayın:  
+[👉 Oynanış Videosunu İzle](https://youtu.be/z8Vy4dZQh8Y)
+
