@@ -85,9 +85,11 @@ Oyun içinde kullanılan tüm ses ve görsel öğeler `assets` klasöründe bulu
 
 ## 🚀 Başlangıç
 
-1. Projeyi bilgisayarınıza indirin
-2. `index.html` dosyasını bir web tarayıcısında açın
+1. Bu repoyu bilgisayarınıza indirin  
+2. `index.html` dosyasını bir web tarayıcısında açın  
 3. Oyunu oynamaya başlayın!
+
+👉 **Veya hiç indirmeden doğrudan tarayıcınızda oynamak için [buraya tıklayın](https://guldasahmet.github.io/)**
 
 ## ⌨️ Kontroller
 
